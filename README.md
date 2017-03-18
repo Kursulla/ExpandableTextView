@@ -43,14 +43,14 @@ __If you do not set "_collapse_label_", after expanding, there will be no collap
 
 For gradient effect under "_LoadMore_" 
 
-![alt tag](https://dl.dropboxusercontent.com/s/80x97zzwrbmh835/gradient.png?dl=0   width="300px")
+<img src="https://dl.dropboxusercontent.com/s/80x97zzwrbmh835/gradient.png"   width="300px">
 
 feel free to edit drawable file: "__bottom_up_transparent_gradient.xml__"
 
 
 Expanding/Collapsing:
 
-![alt tag](https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif?dl=0   width="48")
+<img src="https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif"   width="48">
 
 
 
