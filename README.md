@@ -33,17 +33,15 @@ __xmlns:custom="http://schemas.android.com/apk/res-auto"__
 
 If you do not set "_collapse_label_", after expanding, there will be no collapse button.
 
-For gradient effect bellow "_LoadMore_" 
+For gradient effect under "_LoadMore_" 
 
-![alt tag](https://dl.dropboxusercontent.com/s/80x97zzwrbmh835/gradient.png?dl=0)
+![alt tag](https://dl.dropboxusercontent.com/s/80x97zzwrbmh835/gradient.png?dl=0 =300x60)
 
 feel free to edit drawable file: "__bottom_up_transparent_gradient.xml__"
 
 
-
-
 Expanding/Collapsing:
 
-![alt tag](https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif?dl=0)
+![alt tag](https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif?dl=0 =240x430)
 
 
