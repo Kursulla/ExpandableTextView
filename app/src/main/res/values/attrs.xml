@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableTextView">
+        <attr name="text" format="reference|string"/>
+        <attr name="expand_label" format="reference|string"/>
+        <attr name="collapse_label" format="reference|string"/>
+        <attr name="limit" format="integer"/>
+    </declare-styleable>
+</resources>

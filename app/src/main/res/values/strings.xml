@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableTextView</string>
+    <string name="load_more">Load more</string>
+    <string name="some_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dui purus, finibus et dui sed, maximus accumsan neque. Nunc sed mi sit amet neque auctor euismod id et enim. Morbi tristique ex nulla, at posuere purus dapibus placerat. Morbi at scelerisque lorem. Suspendisse consequat odio ut odio finibus porttitor. Donec vehicula ligula vel sodales malesuada. Sed a purus congue, rutrum felis quis, porta nulla. Nullam interdum viverra vulputate. Donec auctor, dui sit amet aliquam posuere, ligula mi sagittis dui, id vulputate felis dui sit amet lacus.</string>
+</resources>

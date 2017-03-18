@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:animateLayoutChanges="true"
+                android:orientation="vertical"
+    >
+    
+    <TextView
+        android:id="@+id/content_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dui purus, finibus et dui sed, maximus accumsan neque. Nunc sed mi sit amet neque auctor euismod id et enim. Morbi tristique ex nulla, at posuere purus dapibus placerat. Morbi at scelerisque lorem. Suspendisse consequat odio ut odio finibus porttitor. Donec vehicula ligula vel sodales malesuada. Sed a purus congue, rutrum felis quis, porta nulla. Nullam interdum viverra vulputate. Donec auctor, dui sit amet aliquam posuere, ligula mi sagittis dui, id vulputate felis dui sit amet lacus."
+        />
+    
+    <TextView
+        android:id="@+id/expand_toggle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/content_text"
+        android:background="@drawable/bottom_up_transparent_gradient"
+        android:gravity="center"
+        android:paddingTop="20dp"
+        tools:text="Load more"
+        />
+    
+    <TextView
+        android:id="@+id/collapse_toggle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/content_text"
+        android:gravity="center"
+        android:visibility="gone"
+        tools:text="Collapse"
+        tools:visibility="visible"
+        />
+</RelativeLayout>
