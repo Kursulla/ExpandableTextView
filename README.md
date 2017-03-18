@@ -6,9 +6,8 @@ _small View variation that enable you to limit text int view and offer "ReadMore
 
 Usage is simple. Just, in your layout XML, use ExpandableTextView view with appropriate attributes:
 
-'''
-
-	 <com.eutechpro.expandabletextview.ExpandableTextView
+```Java
+<com.eutechpro.expandabletextview.ExpandableTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         custom:text="@string/some_text"
@@ -16,7 +15,7 @@ Usage is simple. Just, in your layout XML, use ExpandableTextView view with appr
         custom:collapse_label="@string/collapse"
         custom:limit="200"
         />
-'''
+```
 
 
 Attributes:
