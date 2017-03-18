@@ -33,6 +33,10 @@ __xmlns:custom="http://schemas.android.com/apk/res-auto"__
 
 If you do not set "_collapse_label_", after expanding, there will be no collapse button.
 
+
+
+
+
 For gradient effect under "_LoadMore_" 
 
 
