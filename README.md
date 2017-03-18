@@ -50,7 +50,7 @@ feel free to edit drawable file: "__bottom_up_transparent_gradient.xml__"
 
 Expanding/Collapsing:
 
-<img src="https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif"   width="48">
+<img src="https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif"   width="240">
 
 
 
