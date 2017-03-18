@@ -1,6 +1,6 @@
 ## ExpandableTextView
 
-_small TextView variation that enable you to limit text int textview and offer "ReadMore" button._
+_small View variation that enable you to limit text int view and offer "ReadMore button"._
 
 ----
 
@@ -33,4 +33,17 @@ __xmlns:custom="http://schemas.android.com/apk/res-auto"__
 
 If you do not set "_collapse_label_", after expanding, there will be no collapse button.
 
-For gradient effect bellow "_LoadMore_" feel free to edit drawable file: "__bottom_up_transparent_gradient.xml__"
+For gradient effect bellow "_LoadMore_" 
+
+![alt tag](https://dl.dropboxusercontent.com/s/80x97zzwrbmh835/gradient.png?dl=0)
+
+feel free to edit drawable file: "__bottom_up_transparent_gradient.xml__"
+
+
+
+
+Expanding/Collapsing:
+
+![alt tag](https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif?dl=0)
+
+
