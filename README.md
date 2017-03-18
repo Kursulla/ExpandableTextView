@@ -1,4 +1,4 @@
-##ExpandableTextView
+## ExpandableTextView
 
 _small TextView variation that enable you to limit text int textview and offer "ReadMore" button._
 
