@@ -1,4 +1,4 @@
-## ExpandableTextView
+# ExpandableTextView
 
 _small View variation that enable you to limit text int view and offer "ReadMore button"._
 
@@ -6,7 +6,8 @@ _small View variation that enable you to limit text int view and offer "ReadMore
 
 Usage is simple. Just, in your layout XML, use ExpandableTextView view with appropriate attributes:
 
-```Java
+
+```Java 
 <com.eutechpro.expandabletextview.ExpandableTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -27,29 +28,29 @@ Attributes:
 - **limit**: 			amount of characters to "break" content text on
 
 > Do not forget to use custom namespace:
-__xmlns:custom="http://schemas.android.com/apk/res-auto"__
+__xmlns:custom="http://schemas.android.com/apk/res-auto"__  
 
 
-> If you do not set "_collapse_label_", after expanding, there will be no collapse button.
 
 
+
+
+    
+    
+__If you do not set "_collapse_label_", after expanding, there will be no collapse button.__
 
 
 
 For gradient effect under "_LoadMore_" 
 
-
-![Gradient](https://dl.dropboxusercontent.com/s/80x97zzwrbmh835/gradient.png)
-
+![alt tag](https://dl.dropboxusercontent.com/s/80x97zzwrbmh835/gradient.png?dl=0 =300x60)
 
 feel free to edit drawable file: "__bottom_up_transparent_gradient.xml__"
 
 
 Expanding/Collapsing:
 
-
-![Demo](https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif?dl=0)
-
+![alt tag](https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif?dl=0 =240x430)
 
 
 
@@ -58,4 +59,5 @@ Expanding/Collapsing:
 =======
 
 - Add someting like "OnCollapsedListener"
+
 
