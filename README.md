@@ -48,7 +48,7 @@ feel free to edit drawable file: "__bottom_up_transparent_gradient.xml__"
 Expanding/Collapsing:
 
 
-![Demo](https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif?dl=0 =240x430)
+![Demo](https://dl.dropboxusercontent.com/s/6kq8soih5fchph9/collapsable_video.gif?dl=0)
 
 
 
