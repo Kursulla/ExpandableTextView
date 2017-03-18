@@ -52,3 +52,10 @@ Expanding/Collapsing:
 
 
 
+
+
+# Roadmap
+=======
+
+- Add someting like "OnCollapsedListener"
+
