@@ -1,5 +1,6 @@
 package com.eutechpro.expandabletextview;
 
+import android.animation.LayoutTransition;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.support.annotation.Nullable;
@@ -56,7 +57,7 @@ public class ExpandableTextView extends RelativeLayout {
     @SuppressWarnings("deprecation")
     private void init() {
         inflate(getContext(), R.layout.expandable_textview, this);
-
+        setLayoutTransition(new LayoutTransition());
         initText();
         initExpandToggle();
         initCollapseToggle();

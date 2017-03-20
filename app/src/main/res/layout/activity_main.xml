@@ -13,10 +13,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="20dp"
-        custom:layout_constraintBottom_toBottomOf="parent"
-        custom:layout_constraintLeft_toLeftOf="parent"
-        custom:layout_constraintRight_toRightOf="parent"
-        custom:layout_constraintTop_toTopOf="parent"
         
         custom:text="@string/some_text"
         custom:expand_label="@string/load_more"
