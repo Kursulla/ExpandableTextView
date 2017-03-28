@@ -3,7 +3,7 @@
 _small View variation that enable you to limit text int view and offer "ReadMore button"._
 
 ----
-1
+2
 Usage is simple. Just, in your layout XML, use ExpandableTextView view with appropriate attributes:
 
 
